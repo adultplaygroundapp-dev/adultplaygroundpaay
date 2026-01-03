@@ -1,5 +1,5 @@
 javascript // copy the content from src/api/stripe/stripeconnect-baackend.ts // THE BACKEND_SERVER_CODE export contains the full server
 -STRIPE-SECRET-KEY = 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
 -STRIPE_WEBHOOK_SECRET = (set up later)
--BASE_URL = https://railway.com/dashboard
--FRONTEND_URL = https://railway.com/dashboard
+-BASE_URL = https://railway.com/project/17472d49-c1d2-4a9d-9108-c4c5ac0800be?environmentId=a72b2f4e-9f2a-4c8c-a6d4-72ec626da997
+-FRONTEND_URL = https://railway.com/project/17472d49-c1d2-4a9d-9108-c4c5ac0800be?environmentId=a72b2f4e-9f2a-4c8c-a6d4-72ec626da997
