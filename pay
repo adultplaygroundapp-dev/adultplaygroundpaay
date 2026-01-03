@@ -1,5 +1,5 @@
 javascript // copy the content from src/api/stripe/stripeconnect-baackend.ts // THE BACKEND_SERVER_CODE export contains the full server
 -STRIPE-SECRET-KEY = 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
 -STRIPE_WEBHOOK_SECRET = (set up later)
--BASE_URL = curl -fsSL https://railway.com/install.sh | sh
+-BASE_URL = https://railway.com/install.sh | sh
 -FRONTEND_URL = https://your-app.up.railway.app
